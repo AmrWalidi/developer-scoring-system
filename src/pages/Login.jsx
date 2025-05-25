@@ -19,6 +19,8 @@ function Login() {
       }px)`;
     }
   }, [loginType]);
+
+  
   return (
     <div className="login-container">
       <div id="login-nav" className="login-nav">

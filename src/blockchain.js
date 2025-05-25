@@ -9,7 +9,6 @@ import { db } from "./firebase/firebase";
 
 const hashBlock = async (blockData) => {
   const sortedData = deepSort(blockData);
-  console.log(sortedData);
   const blockString = JSON.stringify(sortedData);
 
   const encoder = new TextEncoder();
