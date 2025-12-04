@@ -1,12 +1,58 @@
-# React + Vite
+# Developer Scoring System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developer Scoring System is a web application built with **React + Vite + JavaScript**.  
+It provides a frontend interface to score or evaluate developers (or other users) in a structured way — useful for leaderboards, evaluations, or developer-ranking tools.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Project Description
 
-## Expanding the ESLint configuration
+This project serves as a **client-side application** (frontend) that can be used to score developers, show results, and provide a modern UI experience. It can be extended with firebase backend to store and retrieve scoring data.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The current setup uses Vite for bundling, and is configured with ESLint along with standard React tools.
+
+---
+
+## 🚀 Features (Current / Intended)
+
+- Simple React-based UI  
+- Built with Vite for fast development and build  
+- Modular project structure  
+
+---
+
+## 🛠️ Technologies Used
+
+- React  
+- Vite  
+- JavaScript (ES6+)  
+- ESLint for linting and code quality  
+- HTML / CSS  
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/AmrWalidi/developer-scoring-system.git
+
+2. **Change directory**
+```
+cd developer-scoring-system
+```
+
+2. **Install dependencies**
+```
+npm install
+```
+
+3. **Run the development server**
+```
+npm run dev
+```
+
+4. **Build for production (optional)**
+```
+npm run build
+```
