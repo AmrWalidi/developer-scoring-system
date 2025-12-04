@@ -1,15 +1,10 @@
 # Developer Scoring System
 
-Developer Scoring System is a web application built with **React + Vite + JavaScript**.  
-It provides a frontend interface to score or evaluate developers (or other users) in a structured way — useful for leaderboards, evaluations, or developer-ranking tools.
-
----
 
 ## 📌 Project Description
 
-This project serves as a **client-side application** (frontend) that can be used to score developers, show results, and provide a modern UI experience. It can be extended with firebase backend to store and retrieve scoring data.  
-
-The current setup uses Vite for bundling, and is configured with ESLint along with standard React tools.
+Developer Scoring System is a web application built with **React + Vite + JavaScript**.  
+It provides a frontend interface to score or evaluate developers (or other users) in a structured way — useful for leaderboards, evaluations, or developer-ranking tools.
 
 ---
 
